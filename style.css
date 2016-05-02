@@ -1,12 +1,20 @@
 
-body{background-image: url(https://s-media-cache-ak0.pinimg.com/736x/b7/f6/c9/b7f6c9e62004b9d731eeb481f31f8061.jpg);
-color: lightblue}
+body{
+	background-image: url(https://s-media-cache-ak0.pinimg.com/736x/b7/f6/c9/b7f6c9e62004b9d731eeb481f31f8061.jpg);
+	color: #49b9ee;
+}
 
-h1{text-align: center;}
+h1{
+	text-align: center;
+}
 
 
-li{color:white;}
+li{
+	color:white;
+}
 
 
-a{color:white;
-font-size-adjust: 40px}
+a{
+	color:white;
+	font-size-adjust: 40px
+}
